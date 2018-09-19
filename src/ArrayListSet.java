@@ -3,7 +3,6 @@ import java.util.*;
 
 /**
  * An implementation of a set using an ArrayList
- * @author bradfordh
  *
  * @param <E> uses a generic type so any object can be declared of this type
  */
