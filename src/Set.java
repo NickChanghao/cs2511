@@ -1,8 +1,6 @@
 package week07.lab;
 /**
  * Interface for a set
- * @author bradfordh
- * @author robertce
  *
  * @param <E> uses a generic type so any object can be declared of this type
  */
